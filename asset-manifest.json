@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/piskel-clone/static/css/main.8ab1c383.chunk.css",
-    "main.js": "/piskel-clone/static/js/main.3d72cd70.chunk.js",
-    "main.js.map": "/piskel-clone/static/js/main.3d72cd70.chunk.js.map",
+    "main.js": "/piskel-clone/static/js/main.e5e271a8.chunk.js",
+    "main.js.map": "/piskel-clone/static/js/main.e5e271a8.chunk.js.map",
     "runtime~main.js": "/piskel-clone/static/js/runtime~main.dff1cf59.js",
     "runtime~main.js.map": "/piskel-clone/static/js/runtime~main.dff1cf59.js.map",
     "static/js/2.66c66ef7.chunk.js": "/piskel-clone/static/js/2.66c66ef7.chunk.js",
     "static/js/2.66c66ef7.chunk.js.map": "/piskel-clone/static/js/2.66c66ef7.chunk.js.map",
     "index.html": "/piskel-clone/index.html",
-    "precache-manifest.1489a5d5e6581f19b5d9176b9a422567.js": "/piskel-clone/precache-manifest.1489a5d5e6581f19b5d9176b9a422567.js",
+    "precache-manifest.55589de6c9feda31eb54d085dc7fdf95.js": "/piskel-clone/precache-manifest.55589de6c9feda31eb54d085dc7fdf95.js",
     "service-worker.js": "/piskel-clone/service-worker.js",
     "static/css/main.8ab1c383.chunk.css.map": "/piskel-clone/static/css/main.8ab1c383.chunk.css.map"
   }
