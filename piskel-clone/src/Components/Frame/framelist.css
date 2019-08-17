@@ -1,0 +1,26 @@
+.delete, .dublicate {
+  display: inline-block;
+  width: 64px;
+  height: 30px;
+  margin: 0;
+  font-size: 11px;
+}
+
+.change-position-buttons {
+  position: relative;
+  top: -95px;
+  display: inline-block;
+  width: 22px;
+}
+
+.change-position-buttons button {
+  display: block;
+}
+
+.frame_change-position_block {
+  height: 128px;
+}
+
+.frame-element {
+  display: inline-block;
+}

@@ -1,0 +1,33 @@
+.start-button button {
+  display: block;
+  width: 100px;
+  height: 40px;
+  margin: 0 auto;
+  background-color: #269CE9;
+  border-color: #269CE9;
+}
+
+.start-button {
+  margin-top: 100px;
+}
+
+.start-link {
+  font-size: 22px;
+  color: #fff;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, .2);
+  text-decoration: none;
+}
+
+.header {
+  text-align: center;
+  font: bold 80px arial, helvetica, sans-serif;
+  color: white;
+}
+
+.contacts {
+  position: absolute;
+  right: 2%;
+  bottom: 0;
+  font: bold 13px arial, helvetica, sans-serif;
+  list-style: none;
+}

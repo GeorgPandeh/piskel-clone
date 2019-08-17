@@ -1,0 +1,59 @@
+body {
+  background-color: #262626;
+}
+
+* {
+  color: white;
+  font: bold 13px arial, helvetica, sans-serif;
+}
+
+button {
+  background-color: rgb(29, 117, 175);
+  cursor: pointer;
+  color: white;
+  border: 1px solid rgb(24, 85, 126);
+  font: bold 13px arial, helvetica, sans-serif;
+  margin: 0;
+}
+
+.canvas {
+  position: absolute;
+  left: 400px;
+  top: 100px;
+  width: 320px;
+  height: 320px;
+  background-color: rgba(0, 0, 255, 0.089);
+}
+
+.coordinates {
+  position: absolute;
+  left: 400px;
+  top: 20px;
+}
+
+.new-frame_change-color_buttons {
+  position: absolute;
+  left: 200px;
+}
+
+.new-frame_change-color_buttons button {
+  display: block;
+  width: 145px;
+  margin-top: 2px;
+  padding: 6px 20px;
+}
+
+.preview-block {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 128px;
+  height: 128px;
+}
+
+.fps {
+  position: relative;
+  right: 1px;
+  display: block;
+  margin: 0;
+}
