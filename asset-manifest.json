@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/piskel-clone/static/css/main.5de32093.chunk.css",
-    "main.js": "/piskel-clone/static/js/main.8df6f1eb.chunk.js",
-    "main.js.map": "/piskel-clone/static/js/main.8df6f1eb.chunk.js.map",
+    "main.css": "/piskel-clone/static/css/main.ed4d8f5a.chunk.css",
+    "main.js": "/piskel-clone/static/js/main.7d4ddce0.chunk.js",
+    "main.js.map": "/piskel-clone/static/js/main.7d4ddce0.chunk.js.map",
     "runtime~main.js": "/piskel-clone/static/js/runtime~main.dff1cf59.js",
     "runtime~main.js.map": "/piskel-clone/static/js/runtime~main.dff1cf59.js.map",
-    "static/js/2.5cf8f578.chunk.js": "/piskel-clone/static/js/2.5cf8f578.chunk.js",
-    "static/js/2.5cf8f578.chunk.js.map": "/piskel-clone/static/js/2.5cf8f578.chunk.js.map",
+    "static/js/2.82f4a9d6.chunk.js": "/piskel-clone/static/js/2.82f4a9d6.chunk.js",
+    "static/js/2.82f4a9d6.chunk.js.map": "/piskel-clone/static/js/2.82f4a9d6.chunk.js.map",
     "index.html": "/piskel-clone/index.html",
-    "precache-manifest.6b8de753eb7ae4cdea2bf348040b45b2.js": "/piskel-clone/precache-manifest.6b8de753eb7ae4cdea2bf348040b45b2.js",
+    "precache-manifest.7e684714c63e64d95c00ad988a7e55d7.js": "/piskel-clone/precache-manifest.7e684714c63e64d95c00ad988a7e55d7.js",
     "service-worker.js": "/piskel-clone/service-worker.js",
-    "static/css/main.5de32093.chunk.css.map": "/piskel-clone/static/css/main.5de32093.chunk.css.map"
+    "static/css/main.ed4d8f5a.chunk.css.map": "/piskel-clone/static/css/main.ed4d8f5a.chunk.css.map"
   }
 }
